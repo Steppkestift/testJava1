@@ -8,5 +8,4 @@ public class Sludge {
     {
         System.out.println("sludge");
     }
-
 }
