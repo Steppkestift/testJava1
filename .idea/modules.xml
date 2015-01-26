@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/cert/cert.iml" filepath="$PROJECT_DIR$/src/cert/cert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/nocert/nocert.iml" filepath="$PROJECT_DIR$/src/nocert/nocert.iml" />
       <module fileurl="file://$PROJECT_DIR$/testJava.iml" filepath="$PROJECT_DIR$/testJava.iml" />
     </modules>
   </component>
